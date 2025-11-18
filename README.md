@@ -11,13 +11,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Miscellaneous](#miscellaneous)
 
 ## Datasets
+- [Giant Daxinzhuang Pottery Puzzle Challenge](https://www.kaggle.com/competitions/h690)
 
 ## Case Studies
 ### Research Papers
 
 ### Project Homepage
 - [European Common Data Space](https://www.dataspace-culturalheritage.eu/en)
-- 
+
+
 ### In the Press
 
 
@@ -26,9 +28,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Events
 ### Conferences
 - [AI4Culture Final Conference: Exploring the Future of AI in Cultural Heritage](https://pretix.eu/EFHA/AI4Culture/)
+- [World Internet Conference, Cultural Heritage Digitalization Forum](https://cn.wicinternet.org/node_165833.htm)
 - [Digital Heritage Congress 2025](https://digitalheritage2025.unisi.it/)
 - [ICCROM Ctrl+S Culture: AI and Heritage in a Digital World International Virtual Conference](https://www.iccrom.org/events/ctrls-culture-ai-and-heritage-digital-world-international-virtual-conference)
-- [World Internet Conference, Cultural Heritage Digitalization Forum](https://cn.wicinternet.org/node_165833.htm)
+- [AIC-CAC 2026 Concurrent Session AI and Conservation: Current Uses and Future Directions](https://www.culturalheritage.org/events/annual-meeting/current-meeting/call-for-submissions)
 
 ### Activities
 - [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/)
