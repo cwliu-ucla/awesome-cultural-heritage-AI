@@ -3,7 +3,7 @@
 A curated list of **high-quality** resources for AI application in the cultural heritage sector.  
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-## Contents\
+## Contents
 - [Datasets](#datasets)
 - [Case Studies](#case_studies)
 - [Events](#events)
@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Case Studies
 ### Research Papers
-- **Title** — short summary. [Link](URL)
+
 ### Project Homepage
 - [European Common Data Space](https://www.dataspace-culturalheritage.eu/en)
 - 
@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [World Internet Conference, Cultural Heritage Digitalization Forum](https://cn.wicinternet.org/node_165833.htm)
 
 ### Activities
-- [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/))
+- [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/)
 - [Webinar on Artificial Intelligence and Intangible Cultural Heritage](https://ich.unesco.org/en/events/webinar-on-artificial-intelligence-and-intangible-cultural-heritage-01012)
 - [The Machine Gaze: AI in Art Conservation and Analysis](https://vimeo.com/1068157958)
 
@@ -39,10 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [AI Usage in Archaeology Symposium in Zhu Hai](https://www.archaeology.sdu.edu.cn/info/1016/3912.htm)
   
 ## Communities
-- [Forum/Slack/etc.](URL)
+- [Museum Computer Network](https://mcn.edu/)
 
 ## Miscellaneous
-- [AI and Cultural Heritage Research Resources-VA](https://developers.vam.ac.uk/ai/intro.html))
+- [AI and Cultural Heritage Research Resources-VA](https://developers.vam.ac.uk/ai/intro.html)
 - [Cultural Heritage AI Cookbook](https://pelagios.org/llm-lod-enriching-heritage/intro.html)
 
 ## Contributing
