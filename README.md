@@ -6,18 +6,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Contents
 - [Case Studies](#guides--tutorials)
 - [Events](#evants)
-- [Research Papers](#research-papers)
 - [Communities](#communities)
 - [Miscellaneous](#miscellaneous)
 
 ## Case Studies
-- [Resource Name](URL) — short, specific description.
+### Research Papers
+- Author (Year). **Title** — short summary. [Link](URL)
+### Project Homepage
+
+### In the Press
 
 ## Events
 - [Tool Name](URL) — what it does and why it’s useful.
 
-## Research Papers
-- Author (Year). **Title** — short summary. [Link](URL)
+
 
 ## Communities
 - [Forum/Slack/etc.](URL)
