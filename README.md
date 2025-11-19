@@ -11,14 +11,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Miscellaneous](#miscellaneous)
 
 ## Datasets
-- [Giant Daxinzhuang Pottery Puzzle Challenge](https://www.kaggle.com/competitions/h690)
+- [Giant Daxinzhuang Pottery Puzzle Challenge](https://www.kaggle.com/competitions/h690) - CV, DL
+- [European Common Data Space](https://www.dataspace-culturalheritage.eu/en)
 
 ## Case Studies
 ### Research Papers
 
 ### Project Homepage
-- [European Common Data Space](https://www.dataspace-culturalheritage.eu/en)
 
+- [ÇEKÜLGPT](https://digitalage.com.tr/cekulgpt-hayata-geciyor/)- AI-Driven Interpretation and Public
+Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
 
 ### In the Press
 
