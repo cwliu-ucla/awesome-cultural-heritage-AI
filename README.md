@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [European Common Data Space](https://www.dataspace-culturalheritage.eu/en)
 
 ## Case Studies
-### Research Papers
 
 ### Project Homepage
 
@@ -56,6 +55,9 @@ Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
   
 ## Communities
 - [Museum Computer Network](https://mcn.edu/)
+
+## Journals
+- [Electronics and Computer Science for Cultural Heritage: Advancements, Preservation, and Applications, 2nd Edition](https://www.mdpi.com/journal/electronics/special_issues/281HY19OGT)
 
 ## Miscellaneous
 - [AI and Cultural Heritage Research Resources-VA](https://developers.vam.ac.uk/ai/intro.html)
