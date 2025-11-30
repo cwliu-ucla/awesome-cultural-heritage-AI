@@ -49,12 +49,14 @@ Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
 - [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/)
 - [Webinar on Artificial Intelligence and Intangible Cultural Heritage](https://ich.unesco.org/en/events/webinar-on-artificial-intelligence-and-intangible-cultural-heritage-01012)
 - [The Machine Gaze: AI in Art Conservation and Analysis](https://vimeo.com/1068157958)
+- [The Cultural Heritage Cloud Webniar: new projects, lasting impact](https://research-innovation-community.ec.europa.eu/events/56SiUK4uMYd9xFz4WNmyUD/overview)
 
 ### In the Press
 - [AI Usage in Archaeology Symposium in Zhu Hai](https://www.archaeology.sdu.edu.cn/info/1016/3912.htm)
   
 ## Communities
 - [Museum Computer Network](https://mcn.edu/)
+- [The Cultural Heritage Cloud](https://www.echoes-eccch.eu/)
 
 ## Journals
 - [Electronics and Computer Science for Cultural Heritage: Advancements, Preservation, and Applications, 2nd Edition](https://www.mdpi.com/journal/electronics/special_issues/281HY19OGT)
