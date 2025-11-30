@@ -44,6 +44,7 @@ Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
 ### Activities
 #### Upcoming
 - [Enriching digital heritage with LLMs and Linked Open Data](https://www.atrium-research.eu/news/call-for-participants-linked-pasts-2025/) - Linked Pasts Symposium 2025
+- [AI in Conservation – Where Does It Fit, and How Sustainable Is It?](https://www.icon.org.uk/events/ai-in-conservation.html) - ICON Online Virtual Get-together
 
 #### Past
 - [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/)
