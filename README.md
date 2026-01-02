@@ -34,6 +34,7 @@ Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
 - [AIC-CAC 2026 Concurrent Session AI and Conservation: Current Uses and Future Directions](https://www.culturalheritage.org/events/annual-meeting/current-meeting/call-for-submissions)
 
 #### Past
+- [Archival Intelligence: AI x Archives x Museums](https://www.youtube.com/watch?v=JmF3NNQCyxk&list=PLfBve91jdJ86VlSn3xopMMSy5TlxTiWuA&index=1)
 - [AI4Culture Final Conference: Exploring the Future of AI in Cultural Heritage](https://pretix.eu/EFHA/AI4Culture/)
 - [World Internet Conference, Cultural Heritage Digitalization Forum](https://cn.wicinternet.org/node_165833.htm)
 - [Digital Heritage Congress 2025](https://digitalheritage2025.unisi.it/)
@@ -43,10 +44,11 @@ Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
 
 ### Activities
 #### Upcoming
-- [Enriching digital heritage with LLMs and Linked Open Data](https://www.atrium-research.eu/news/call-for-participants-linked-pasts-2025/) - Linked Pasts Symposium 2025
-- [AI in Conservation – Where Does It Fit, and How Sustainable Is It?](https://www.icon.org.uk/events/ai-in-conservation.html) - ICON Online Virtual Get-together
+
 
 #### Past
+- [Enriching digital heritage with LLMs and Linked Open Data](https://www.atrium-research.eu/news/call-for-participants-linked-pasts-2025/) - Linked Pasts Symposium 2025
+- [AI in Conservation – Where Does It Fit, and How Sustainable Is It?](https://www.icon.org.uk/events/ai-in-conservation.html) - ICON Online Virtual Get-together
 - [UNESCO The Role of AI in Museums-Morning Session](https://www.linkedin.com/video/live/urn:li:ugcPost:7390243295744126976/)
 - [Webinar on Artificial Intelligence and Intangible Cultural Heritage](https://ich.unesco.org/en/events/webinar-on-artificial-intelligence-and-intangible-cultural-heritage-01012)
 - [The Machine Gaze: AI in Art Conservation and Analysis](https://vimeo.com/1068157958)
