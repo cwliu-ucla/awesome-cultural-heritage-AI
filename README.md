@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Case Studies
 
 ### Project Homepage
+- [Yuanmingyuan Digital Restoration](https://github.com/Ivan666jjj/yuanmingyuan-restoration) - AI-assisted, source-cited reconstruction of the Yuanmingyuan before 1860; 77 scenes open for community contribution. [Site](https://ivan666jjj.github.io/yuanmingyuan-restoration/).
 
 - [ÇEKÜLGPT](https://digitalage.com.tr/cekulgpt-hayata-geciyor/)- AI-Driven Interpretation and Public
 Access to a Civil Society Organization’s Archive - Agentic AI, LLM, RAG
